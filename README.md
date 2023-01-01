@@ -26,30 +26,6 @@ The analysis was done by merging two datasets:
 
 2. Annual GDP for every country in the world by the World Bank in CSV format.
 
-The datasets contain the following attributes:
-1. COVID-19 Finance Starter EDA
-- Country Name
-- ID
-- Country ISO3
-- Income Level
-- Authority
-- Date
-- Level 1 policy measures
-- Level 2 policy measures
-- Level 3 policy measures
-- Details of the measure
-- Reference
-- Termination Date
-- Modification of Parent measure
-- Parent Measure
-
-2. Annual GDP by the World Bank
-- Country Name
-- Country Code
-- Indicator Name
-- Indicator Code
-- Year-wise GDP
-
 ## Questions answered: 
 
 1. How did the GDP change in countries around the world before and during the pandemic?
