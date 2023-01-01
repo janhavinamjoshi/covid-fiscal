@@ -66,6 +66,4 @@ Jupyter Lab
 Python 3.0.0+
 Please make sure that you have installed all the libraries used in this project.
 
-Once you are done setting up the environment, You can run the Jupyter Notebook on Anaconda. Make sure to change the path of the data as per your convinience. You can also check out the presentation report or the HTML report in order to avoid running the Jupyter Notebook.
-
-## Conclusions & Recommendations
+Once you are done setting up the environment, You can run the Jupyter Notebook on Anaconda. Make sure to change the path of the data as per your convenience. You can also check out the presentation report or the HTML report in order to avoid running the Jupyter Notebook.
